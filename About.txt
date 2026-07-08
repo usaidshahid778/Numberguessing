@@ -1,0 +1,5 @@
+Difficulty System
+High Score Saving as a txt file
+Ascii Art
+Each difficulty score stored separately
+Hint system as players will get a hint of what the number can be

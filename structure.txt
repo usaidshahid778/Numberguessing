@@ -1,0 +1,13 @@
+Start Game
+  ↓
+Generate Random Number
+  ↓
+Player Guess
+  ↓
+Check Guess
+  ↓
+Win? → End
+Lose attempts? → End
+Else → Repeat
+  ↓
+Ask to Replay
